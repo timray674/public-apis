@@ -443,6 +443,7 @@ API | Description | Auth | HTTPS | CORS |
 | [FreeGeoIP](https://freegeoip.app/) | Free geo ip information, no registration required. 15k/hour rate limit | No | Yes | Yes |
 | [GeoApi](https://api.gouv.fr/api/geoapi.html) | French geographical data | No | Yes | Unknown |
 | [Geocod.io](https://www.geocod.io/) | Address geocoding / reverse geocoding in bulk | `apiKey` | Yes | Unknown |
+| [Geocodify.com](https://geocodify.com/) | Enterprise-grade geocoding, geoparsing and autocomplete for addresses | `apiKey` | Yes | Yes |
 | [Geocode.xyz](https://geocode.xyz/) | Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing | No | Yes | Unknown |
 | [GeoDataSource](https://www.geodatasource.com/web-service) | Geocoding of city name by using latitude and longitude coordinates | `apiKey` | Yes | Unknown |
 | [GeoJS](https://geojs.io/) | IP geolocation with ChatOps integration | No | Yes | Yes |
